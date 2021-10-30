@@ -48,6 +48,7 @@ h3 {
     text-align: center;
     margin: 5px;
     transition: 0.3s ease;
+    cursor: pointer;
 }
 
 .cup.cup-small.full {
