@@ -51,3 +51,15 @@ body {
     border-radius: 5px;
     margin: 0.5rem;
 }
+
+.toast.info {
+    color: rebeccapurple;
+}
+
+.toast.success {
+    color: green;
+}
+
+.toast.error {
+    color: red;
+}
